@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository state
 
-- This repository is currently **spec-first and largely code-free**. There is no `package.json`, no app source tree, and no runnable frontend yet.
+- This repository is in an **early implementation baseline** state. A minimal Vite app scaffold and product/spec documents exist, but the MVP tasks in `openspec/changes/mvp-core/` are still largely unimplemented.
 - The active implementation source of truth is the OpenSpec change `mvp-core` under `openspec/changes/mvp-core/`.
 - Product context lives in `README.md` and `docs/products/`.
 

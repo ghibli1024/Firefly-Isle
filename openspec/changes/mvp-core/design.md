@@ -2,7 +2,7 @@
 
 一页萤是一个面向晚期癌症患者/家属的治疗记录生成器。患者面临多线治疗方案、信息过载、就诊时间极短的困境，需要一个工具快速生成一页纸治疗时间线表格递给医生。
 
-**当前状态：** Greenfield 项目，无任何代码、无 package.json。当前 OpenSpec 已包含 proposal、design、tasks 与 12 个 capability specs，作为本轮 MVP 的主要真相源。
+**当前状态：** Greenfield 项目，已建立初始仓库基线（含 `package.json`、`src/`、Vite 基础文件与 OpenSpec 工件），但 MVP 能力仍基本未实现；当前 OpenSpec 已包含 proposal、design、tasks 与 12 个 capability specs，作为本轮 MVP 的主要真相源。
 
 **用户群体约束：** 晚期癌症患者/家属，情感极度脆弱，UI 必须简洁、无干扰、可信赖。错误提示需温和，绝不暴露技术细节。
 

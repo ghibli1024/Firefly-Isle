@@ -8,7 +8,7 @@
 
 本项目为晚期癌症患者/家属打造一个"一页纸治疗记录生成器"。患者面临多线治疗方案，信息过载，就诊时间短，需要一个工具快速生成极简治疗时间线表格，递给医生即可高效沟通。
 
-**当前状态：** 项目完全空白（无代码、无 package.json），仅有 PRD 和 README。
+**当前状态：** 本文件是历史参考文档。仓库已存在初始 Vite 基线（含 `package.json` 与 `src/`），但当前 MVP 的实现真相源仍是 `openspec/changes/mvp-core/`。
 **开发工具链：** OpenSpec（已安装 v1.2.0）生成 Spec → Superpowers（已安装 v5.0.5）驱动实现 → Claude Code 编码
 
 ---
